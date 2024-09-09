@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+.dark-bg {
+    background-color: #343a40; /* Dark background color */
+    min-height: 100vh; /* Full height of the viewport */
+    padding-top: 20px; /* Optional: add some padding at the top */
+    color: #ffffff; /* Set text color to white for better contrast */
+  }
+  
